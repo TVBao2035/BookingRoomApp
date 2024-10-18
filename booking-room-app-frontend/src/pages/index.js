@@ -1,0 +1,10 @@
+export {default as Home} from './Home';
+export {default as SignIn} from './SignIn';
+export {default as Contract} from './Contract';
+export {default as Room} from './Room';
+export {default as Account} from './Account';
+export {default as Loading} from './Loading';
+export {default as SignUp} from './SignUp';
+export {default as Manage} from './Manage';
+export { default as Details } from './Details';
+export {default as History} from './History';

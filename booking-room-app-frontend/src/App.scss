@@ -1,0 +1,13 @@
+@import '~bootstrap/scss/bootstrap';
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+.App{
+   
+    *{
+        padding: 0;
+        margin: 0;
+    }
+    .modal_container{
+        display: block;
+        
+    }
+}

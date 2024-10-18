@@ -1,0 +1,28 @@
+@import '../../variables.scss';
+
+.SignUp {
+
+
+    h2, h4{
+        @include font-main;
+        color: $main-color;
+    }
+
+    span {
+        font-size: 14px;
+        display: none;
+    }
+
+    .input_wrong {
+        display: block;
+    }
+
+    .block_control {
+
+        a {
+            color: $main-color;
+        }
+    }
+
+
+}
